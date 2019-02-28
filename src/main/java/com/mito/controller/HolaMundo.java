@@ -15,7 +15,7 @@ public class HolaMundo {
 	public Persona Saludar() {		
 		Persona per = new Persona();
 		per.setId(1);
-		per.setNombre("Mundo");
+		per.setNombre("Hola Mundo");
 		return per;
 	}
 }
